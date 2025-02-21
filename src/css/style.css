@@ -1,0 +1,32 @@
+.bloco-zero {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.img {
+    width: 400px;
+}
+
+.subscribe {
+    background-color: black;
+    color: white;
+    height: 35px;
+    border: none;
+    border-radius: 30px;
+}
+
+.button {
+    background-color: #43abf6;
+    color: white;
+    height: 35px;
+    border: none;
+    border-radius: 30px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
